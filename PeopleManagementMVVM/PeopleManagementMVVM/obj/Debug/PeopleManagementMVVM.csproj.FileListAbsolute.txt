@@ -1,0 +1,15 @@
+C:\Users\Monkata\Desktop\Axway\PeopleManagementMVVM\PeopleManagementMVVM\bin\Debug\PeopleManagementMVVM.exe.config
+C:\Users\Monkata\Desktop\Axway\PeopleManagementMVVM\PeopleManagementMVVM\bin\Debug\PeopleManagementMVVM.exe
+C:\Users\Monkata\Desktop\Axway\PeopleManagementMVVM\PeopleManagementMVVM\bin\Debug\PeopleManagementMVVM.pdb
+C:\Users\Monkata\Desktop\Axway\PeopleManagementMVVM\PeopleManagementMVVM\obj\Debug\PeopleManagementMVVM.csprojAssemblyReference.cache
+C:\Users\Monkata\Desktop\Axway\PeopleManagementMVVM\PeopleManagementMVVM\obj\Debug\MainWindow.g.cs
+C:\Users\Monkata\Desktop\Axway\PeopleManagementMVVM\PeopleManagementMVVM\obj\Debug\App.g.cs
+C:\Users\Monkata\Desktop\Axway\PeopleManagementMVVM\PeopleManagementMVVM\obj\Debug\PeopleManagementMVVM_MarkupCompile.cache
+C:\Users\Monkata\Desktop\Axway\PeopleManagementMVVM\PeopleManagementMVVM\obj\Debug\PeopleManagementMVVM_MarkupCompile.lref
+C:\Users\Monkata\Desktop\Axway\PeopleManagementMVVM\PeopleManagementMVVM\obj\Debug\MainWindow.baml
+C:\Users\Monkata\Desktop\Axway\PeopleManagementMVVM\PeopleManagementMVVM\obj\Debug\PeopleManagementMVVM.g.resources
+C:\Users\Monkata\Desktop\Axway\PeopleManagementMVVM\PeopleManagementMVVM\obj\Debug\PeopleManagementMVVM.Properties.Resources.resources
+C:\Users\Monkata\Desktop\Axway\PeopleManagementMVVM\PeopleManagementMVVM\obj\Debug\PeopleManagementMVVM.csproj.GenerateResource.cache
+C:\Users\Monkata\Desktop\Axway\PeopleManagementMVVM\PeopleManagementMVVM\obj\Debug\PeopleManagementMVVM.csproj.CoreCompileInputs.cache
+C:\Users\Monkata\Desktop\Axway\PeopleManagementMVVM\PeopleManagementMVVM\obj\Debug\PeopleManagementMVVM.exe
+C:\Users\Monkata\Desktop\Axway\PeopleManagementMVVM\PeopleManagementMVVM\obj\Debug\PeopleManagementMVVM.pdb
